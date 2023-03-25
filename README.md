@@ -7,4 +7,4 @@ Showcase
 
 
 To use the program:
---> Download the "Kivy Calculator.exe" application and just use it
+--> Download the "Kivy Calculator.exe" and calc_design.kv, put them in a same folder, then open the .exe application and use it
